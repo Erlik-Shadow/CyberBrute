@@ -30,6 +30,7 @@
 
 1. Repository-ni klonla:
 
+```bash
 git clone https://github.com/Erlik-Shadow/cyberbrute.git
 
 cd cyberbrute
