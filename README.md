@@ -31,6 +31,11 @@
 1. Repository-ni klonla:
 
 git clone https://github.com/Erlik-Shadow/cyberbrute.git
+
 cd cyberbrute
+
+chmod +x CyberBrute.sh
+
+./CyberBrute.sh
 
 
