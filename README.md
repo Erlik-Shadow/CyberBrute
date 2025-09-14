@@ -33,5 +33,4 @@
 git clone https://github.com/Erlik-Shadow/cyberbrute.git
 cd cyberbrute
 
-git clone https://github.com/KULLANICI_ADIN/cyberbrute.git
-cd cyberbrute
+
